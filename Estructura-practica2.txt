@@ -1,0 +1,38 @@
+│   .classpath
+│   .project
+│
+├───.settings
+│       org.eclipse.jdt.core.prefs
+│
+├───bin
+│   ├───conexion
+│   │       Conexion.class
+│   │
+│   ├───controladores
+│   ├───entidades
+│   │       Customer.class
+│   │       Region.class
+│   │
+│   ├───repositorios
+│   │       Operaciones.class
+│   │
+│   └───servicios
+│           Main.class
+│
+├───lib
+│       mysql-connector-java-8.0.28.jar
+│
+└───src
+    ├───conexion
+    │       Conexion.java
+    │
+    ├───controladores
+    ├───entidades
+    │       Customer.java
+    │       Region.java
+    │
+    ├───repositorios
+    │       Operaciones.java
+    │
+    └───servicios
+            Main.java
